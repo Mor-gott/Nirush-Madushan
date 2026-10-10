@@ -352,7 +352,7 @@ const video360 = (function () {
 wordsPullUp(document.getElementById('hero-heading'), 'AZPER', { asterisk: true });
 
 wordsPullUpMultiStyle(document.getElementById('about-heading'), [
-  { text: 'Hi! I’m Azper Aka Nirush Madushan,', className: 'style-regular' },
+  { text: 'Hi! I’m Nirush Madushan Aka Azper,', className: 'style-regular' },
   { text: 'a self taught creator.', className: 'style-italic' },
 ]);
 
