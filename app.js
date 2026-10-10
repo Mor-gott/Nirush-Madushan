@@ -349,10 +349,10 @@ const video360 = (function () {
 /* ============================================================
    TEXT CONTENT — wire up the pull-up / scroll-reveal copy
    ============================================================ */
-wordsPullUp(document.getElementById('hero-heading'), 'Nirush', { asterisk: true });
+wordsPullUp(document.getElementById('hero-heading'), 'Azper', { asterisk: true });
 
 wordsPullUpMultiStyle(document.getElementById('about-heading'), [
-  { text: 'Hi! I’m Nirush Madushan,', className: 'style-regular' },
+  { text: 'Hi! I’m Azper Aka Nirush Madushan,', className: 'style-regular' },
   { text: 'a self taught creator.', className: 'style-italic' },
 ]);
 
